@@ -1,0 +1,15 @@
+print hello
+print world
+ls
+pwd
+$var=hhh
+$var=yeah
+$varrr=hhhh
+theme red
+print color changed
+print now change to blue
+theme blue
+print color have changed to blue
+print we can now end
+log
+exit
